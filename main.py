@@ -43,7 +43,7 @@ def get_player_bans_data(api_key, steam_id):
         return None
 
 def main():
-    api_key = "A0E64641F9DBA02FBDBC399D96A6C1C1"  # Replace this with your own Steam API key
+    api_key = "F830F465032EC9B70F6D0ED81D4C622D"  # Replace this with your own Steam API key
 
     print("Choose an option:")
     print("1. Enter Steam ID")
